@@ -1,0 +1,90 @@
+/* Lobster */
+@font-face {
+  font-family: "Lobster";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Lobster/Lobster-Regular.ttf') format('truetype');
+}
+
+/* AbrilFatface */
+@font-face {
+  font-family: "AbrilFatface";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Abril_Fatface/AbrilFatface-Regular.ttf') format('truetype');
+}
+
+/* Curely */
+@font-face {
+  font-family: "Curely";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/curely/Curely-Free Typeface.ttf') format('truetype');
+}
+
+/* LibreBaskerville-Regular */
+@font-face {
+  font-family: "LibreBaskerville-Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+}
+
+/* LibreBaskerville-Bold */
+@font-face {
+  font-family: "LibreBaskerville-Bold";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf') format('truetype');
+}
+
+/* LibreBaskerville-Italic */
+@font-face {
+  font-family: "LibreBaskerville-Italic";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('~assets/fonts/Libre_Baskerville/LibreBaskerville-Italic.ttf') format('truetype');
+}
+
+/* MerryChristmasFlake */
+@font-face {
+  font-family: "MerryChristmasFlake";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/merry_christmas/MerryChristmasFlake.ttf') format('truetype');
+}
+
+/* MerryChristmasStar */
+@font-face {
+  font-family: "MerryChristmasStar";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/merry_christmas/MerryChristmasStar.ttf') format('truetype');
+}
+
+/* Helvetica */
+@font-face {
+  font-family: "MerryChristmasStar";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/Helvetica-Font/Helvetica.ttf') format('truetype');
+}
+
+/* Helvetica Bold */
+@font-face {
+  font-family: "MerryChristmasStar";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('~assets/fonts/Helvetica-Font/Helvetica-Bold.ttf') format('truetype');
+}
+
